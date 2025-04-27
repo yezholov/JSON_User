@@ -11,14 +11,14 @@ Version 2:
 - Add loops and update code to read multiply users
 
 Version 3:
-– Add new entries from code to JSON file
-– Displayed updated list
+- Add new entries from code to JSON file
+- Displayed updated list
 
 Version 4:
-– Create enum "user_types" (Admin, User, Guest)
-– Use inheritance to extend the User class and create specialized user_types – ExtendedUser
+- Create enum "user_types" (Admin, User, Guest)
+- Use inheritance to extend the User class and create specialized user_types – ExtendedUser
 
 Version 5:
-– Create new JSON file with UserTypes
-– Update code to handle this changes
-– Output ExtendedUser fields
+- Create new JSON file with UserTypes
+- Update code to handle this changes
+- Output ExtendedUser fields
