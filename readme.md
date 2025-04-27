@@ -9,3 +9,7 @@ Version 1:
 Version 2:
 - Add more users (rename file into users.json)
 - Add loops and update code to read multiply users
+
+Version 3:
+– Add new entries from code to JSON file
+– Displayed updated list
