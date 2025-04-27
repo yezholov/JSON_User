@@ -12,6 +12,18 @@ class Program
         public string? City { get; set; }
     }
 
+    public enum user_types
+    {
+        Admin,
+        User,
+        Guest
+    }
+
+    public class ExtendedUser : User
+    {
+        public user_types UserTypes { get; set; }
+    }
+
     static void Main(string[] args)
     {
         // Path to the local JSON file

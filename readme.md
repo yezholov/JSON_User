@@ -13,3 +13,7 @@ Version 2:
 Version 3:
 – Add new entries from code to JSON file
 – Displayed updated list
+
+Version 4:
+– Create enum "user_types" (Admin, User, Guest)
+– Use inheritance to extend the User class and create specialized user_types – ExtendedUser
