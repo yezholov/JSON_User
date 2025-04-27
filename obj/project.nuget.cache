@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "APekIVn9ZV0=",
+  "dgSpecHash": "zD8FRz5VcG4=",
   "success": true,
-  "projectFilePath": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSOIN_User/JSOIN_User.csproj",
+  "projectFilePath": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSON_User/JSON_User.csproj",
   "expectedPackageFiles": [
     "/Users/ezh_off/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],

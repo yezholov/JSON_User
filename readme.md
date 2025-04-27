@@ -1,4 +1,4 @@
-Project: [JSOIN_User](https://github.com/yezholov/JSOIN_User)
+Project: [JSON_User](https://github.com/yezholov/JSON_User)
 
 Author: Kyrylo Yezholov <@yezholov> <kyrylo.yezholov@sa.stud.vu.lt>
 

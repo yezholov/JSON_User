@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSOIN_User/JSOIN_User.csproj",
-      "projectName": "JSOIN_User",
-      "projectPath": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSOIN_User/JSOIN_User.csproj",
+      "projectUniqueName": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSON_User/JSON_User.csproj",
+      "projectName": "JSON_User",
+      "projectPath": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSON_User/JSON_User.csproj",
       "packagesPath": "/Users/ezh_off/.nuget/packages/",
-      "outputPath": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSOIN_User/obj/",
+      "outputPath": "/Users/ezh_off/Library/CloudStorage/OneDrive-VilniusUniversity/2nd semester 2025/Object-Oriented Programming/C.Sharp/JSON_User/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ezh_off/.nuget/NuGet/NuGet.Config"
