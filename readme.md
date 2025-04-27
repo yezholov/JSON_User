@@ -17,3 +17,8 @@ Version 3:
 Version 4:
 – Create enum "user_types" (Admin, User, Guest)
 – Use inheritance to extend the User class and create specialized user_types – ExtendedUser
+
+Version 5:
+– Create new JSON file with UserTypes
+– Update code to handle this changes
+– Output ExtendedUser fields

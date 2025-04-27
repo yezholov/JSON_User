@@ -2,16 +2,19 @@
   {
     "Name": "John Doe",
     "Age": 30,
-    "City": "New York"
+    "City": "New York",
+    "UserTypes": "Admin"
   },
   {
     "Name": "Jane Smith",
     "Age": 25,
-    "City": "Los Angeles"
+    "City": "Los Angeles",
+    "UserTypes": "User"
   },
   {
     "Name": "Sam Brown",
     "Age": 22,
-    "City": "Chicago"
+    "City": "Chicago",
+    "UserTypes": "Guest"
   }
 ]

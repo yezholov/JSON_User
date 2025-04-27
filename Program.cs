@@ -33,14 +33,15 @@ class Program
         string jsonResponse = File.ReadAllText(filePath);
 
         // Deserialize the JSON into a list of C# objects
-        List<User>? users = JsonConvert.DeserializeObject<List<User>>(jsonResponse);
+        List<ExtendedUser>? users = JsonConvert.DeserializeObject<List<ExtendedUser>>(jsonResponse);
 
         // Adding a new user
-        User newUser = new User
+        ExtendedUser newUser = new ExtendedUser
         {
             Name = "Alice Smith",
             Age = 33,
-            City = "Vilnius"
+            City = "Vilnius",
+            UserTypes = user_types.User
         };
 
         users?.Add(newUser);
@@ -58,6 +59,7 @@ class Program
                 Console.WriteLine($"Name: {user.Name}");
                 Console.WriteLine($"Age: {user.Age}");
                 Console.WriteLine($"City: {user.City}");
+                Console.WriteLine($"User Type: {user.UserTypes}");
                 Console.WriteLine();
             }
         }
